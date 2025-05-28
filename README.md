@@ -2,7 +2,7 @@
 This project is a real-time computer vision application that detects human faces via webcam and predicts their age group, gender, and emotional expression using custom-trained Convolutional Neural Networks (CNNs).
 
 Developed as part of my 5th semester (BCA), this project showcases the integration of deep learning, image classification, and real-time video processing for intelligent human-centered AI.
-Features
+Features.
 
 ✅ Detects faces in real-time using OpenCV.
 
